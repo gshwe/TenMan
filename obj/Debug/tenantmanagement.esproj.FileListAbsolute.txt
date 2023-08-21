@@ -1,0 +1,2 @@
+C:\projects\TenMan\TenantManagement\obj\Debug\tenantmanagement.esproj.SuggestedBindingRedirects.cache
+C:\projects\TenMan\TenantManagement\obj\Debug\tenantmanagement.esproj.CoreCompileInputs.cache
